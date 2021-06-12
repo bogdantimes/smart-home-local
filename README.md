@@ -38,5 +38,5 @@ Start the script with Mi Home Cloud credentials for Germany / Ukraine region, sm
 WIFI network (only TP-LINK is supported right now) and WIFI router authentication cookie:
 
 ```
-node ct-brightness.js -u john -p doe -d 52:73:58:A3:2A:8C 30:07:4D:12:8C:B3 -r 192.168.0.1 -a "Basic YWRtaW46d2luZA=="
+node power.js -u john -p doe -d 52:73:58:A3:2A:8C 30:07:4D:12:8C:B3 -r 192.168.0.1 -a "Basic YWRtaW46d2luZA=="
 ```
