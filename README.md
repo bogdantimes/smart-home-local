@@ -40,3 +40,9 @@ WIFI network (only TP-LINK is supported right now) and WIFI router authenticatio
 ```
 node power.js -u john -p doe -d 52:73:58:A3:2A:8C 30:07:4D:12:8C:B3 -r 192.168.0.1 -a "Basic YWRtaW46d2luZA=="
 ```
+
+# Buy me a coffee
+
+BTC: bc1qw6huxuc20edg66ddj4k6ze9njkcsplkcjllcv3
+
+Doge: DTtRQJvF9SYF9kwhYnVm6hvXyPzyD4FVfm
