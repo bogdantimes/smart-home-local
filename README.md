@@ -45,4 +45,6 @@ node power.js -u john -p doe -d 52:73:58:A3:2A:8C 30:07:4D:12:8C:B3 -r 192.168.0
 
 BTC: bc1qw6huxuc20edg66ddj4k6ze9njkcsplkcjllcv3
 
-Doge: DTtRQJvF9SYF9kwhYnVm6hvXyPzyD4FVfm
+DOGE: DTtRQJvF9SYF9kwhYnVm6hvXyPzyD4FVfm
+
+Mastercard (USD, Monobank): 5375 4188 0074 7289
