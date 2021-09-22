@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "node-mihome": "^0.0.32",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "yargs": "^17.0.1"
   },
   "devDependencies": {}
